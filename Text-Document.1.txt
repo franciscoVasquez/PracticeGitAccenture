@@ -1,7 +1,9 @@
 cambios 
 cambios para nuevo branch
 
-cambios de status
+cambios para no ver en master
+
+cambio para pull
 
 
-cambio para password
+scape .. wq + enter
